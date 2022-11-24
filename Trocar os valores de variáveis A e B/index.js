@@ -1,0 +1,3 @@
+function generate() {
+    alert('Olá!')
+}
