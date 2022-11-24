@@ -1,6 +1,6 @@
 
 * {
-    
+    padding: 0;
     margin: 0;
 }
 
@@ -16,8 +16,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgb(105, 66, 7);
-       
+    background-color: rgb(105, 66, 7);       
 }
 
 .content {
@@ -26,7 +25,6 @@ body {
     padding: 20px;
     background: rgb(253, 246, 235);
     border-radius: 8px;
-
 }
 
 .content input {
@@ -34,8 +32,7 @@ body {
     border: 1.5px rgb(184, 184, 184) solid;
     border-radius: 4px;
     padding: 5px;
-    margin-left: 70px;
-    
+    margin-left: 70px;    
 }
 
 .content button {
@@ -54,6 +51,7 @@ body {
     background-color: rgb(5, 146, 5);
     height: 30px;
 }
+
 .content p {
     text-align: center;    
     font-weight: 400;    
@@ -67,7 +65,5 @@ body {
     padding: 50px;
     display: block;
     margin-left: auto;
-    margin-right: auto;
-   
-    
+    margin-right: auto;  
 }
