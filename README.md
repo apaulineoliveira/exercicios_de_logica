@@ -21,4 +21,5 @@ Escopo: Ler os valores A e B e trocar os valores entre as duas variáveis; a var
 <ul>
   <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS. </li>
   <li>Optei por um HTML simples e funcional, utilizando <code>inputs</code> para inserir os números que irão posteriormente ser armazenados nas variáveis A e B</li>
+  <li></li>
 </ul>
