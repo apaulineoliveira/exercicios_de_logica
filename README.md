@@ -2,9 +2,12 @@
 Compilado de exercícios de lógica de programação utilizando Javascript.
 # 🪶 Objetivo
 <p>O objetivo deste repositório é reunir um conjunto de exercícios de lógica de programação utilizando Javascript para aprimorar as habilidades em resolução de problemas do cotidiano profissional de forma rápida e assertiva.</p> Dentre as subpastas é possível encontrar os sequintes exercícios:<br></br>
+
 <ul>
-<li>Gerar uma sequência de Fibonacci utilizando JS</li>
-<li>Trocar os valores entre as variáveis A e B</li> <br>
+  <li>Gerar uma sequência de Fibonacci utilizando JS</li>
+  <li>Trocar os valores entre as variáveis A e B</li> <br>
+</ul>
+
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
 
 <h2>Sequência de Fibonacci - Utilizando JS</h2>
@@ -14,5 +17,8 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
 
 <h2>Trocar os valores entre as variáveis A e B</h2>
 Escopo: Ler os valores A e B e trocar os valores entre as duas variáveis; a variável A passa a possuir o valor de B e a variável B passa a possuir o valor de A.
-<li></li>
-<li></li>
+ 
+<ul>
+  <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS. </li>
+  <li>Optei por um HTML simples e funcional, utilizando <code>inputs</code> para inserir os números que irão ser armazenados nas variáveis A e B</li>
+</ul>
