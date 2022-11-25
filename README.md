@@ -33,3 +33,6 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
 
 <h2>Média de Idades</h2>
 <p><b>Escopo</b>: Leia as idades de duas crianças, calcule e mostre sua soma e média.</p>
+<ul>
+  <li>Utilizei neste projeto a função <code>parseInt</code> para transformar os valores de string em number e a partir disso produzir um valor em número inteiro.</li>
+</ul>
