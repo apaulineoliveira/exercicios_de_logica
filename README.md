@@ -1,4 +1,4 @@
-# exercicios-logica-js
+# exercicios_de_logica
 Compilado de exercícios de lógica de programação utilizando Javascript.
 # 🪶 Objetivo
 <p>O objetivo deste repositório é reunir um conjunto de exercícios de lógica de programação utilizando Javascript para aprimorar as habilidades em resolução de problemas do cotidiano profissional de forma rápida e assertiva.</p> Dentre as subpastas é possível encontrar os sequintes exercícios:<br></br>
