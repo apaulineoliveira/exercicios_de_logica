@@ -21,5 +21,11 @@ Escopo: Ler os valores A e B e trocar os valores entre as duas variáveis; a var
 <ul>
   <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS. </li>
   <li>Optei por um HTML simples e funcional, utilizando <code>inputs</code> para inserir os números que irão posteriormente ser armazenados nas variáveis A e B. E um <code>button</code> <b>Enviar</b> para posteriormente "mandar" os valores para o Javascript.</li>
-  <li></li>
+  <li>No Javascript será criado uma variável adicional que será a responsável por proporcionar a mudança entre os valores A e B. Como poder ser observado no código abaixo:</li><br>
+  <code>var c = b;</code> <br>
+  <code>var b = a;</code> <br>
+  <code>var a = c;</code> <br>
+  <code>console.log('Variável A: ' + a);</code> <br>
+  <code>console.log('Variável B: ' + b);</code> <br>
+  
 </ul>
