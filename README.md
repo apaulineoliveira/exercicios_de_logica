@@ -5,7 +5,9 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
 
 <ul>
   <li>Gerar uma sequência de Fibonacci utilizando JS</li>
-  <li>Trocar os valores entre as variáveis A e B</li> <br>
+  <li>Trocar os valores entre as variáveis A e B</li> 
+  <li>Trocar os valores entre as variáveis A e B</li>
+  <li>Média de idades</li><br>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -16,7 +18,7 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
 <p>Com esta solução é necessário definir dois valores iniciais e a partir disso, será iniciado um loop que irá gerar o resto dos valores adicionando dois valores anteriores da sequência. Com uma <code>function</code> é possível pré-determinar o número de valores que queremos gerar para a função que irá gerar a sequência.
 
 <h2>Trocar os valores entre as variáveis A e B</h2>
-Escopo: Ler os valores A e B e trocar os valores entre as duas variáveis; a variável A passa a possuir o valor de B e a variável B passa a possuir o valor de A.
+<p><b>Escopo</b>: Ler os valores A e B e trocar os valores entre as duas variáveis; a variável A passa a possuir o valor de B e a variável B passa a possuir o valor de A.</p>
  
 <ul>
   <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS. </li>
@@ -26,6 +28,8 @@ Escopo: Ler os valores A e B e trocar os valores entre as duas variáveis; a var
   <code>var b = a;</code> <br>
   <code>var a = c;</code> <br>
   <code>console.log('Variável A: ' + a);</code> <br>
-  <code>console.log('Variável B: ' + b);</code> <br>
-  
+  <code>console.log('Variável B: ' + b);</code> <br>  
 </ul>
+
+<h2>Média de Idades</h2>
+<p><b>Escopo</b>: Leia as idades de duas crianças, calcule e mostre sua soma e média.</p>
