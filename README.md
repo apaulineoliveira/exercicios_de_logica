@@ -8,6 +8,7 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
   <li>Trocar os valores entre as variáveis A e B</li> 
   <li>Trocar os valores entre as variáveis A e B</li>
   <li>Média de idades</li><br>
+  <li>Efetuar operações matemáticas</li><br>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -33,3 +34,5 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
 
 <h2>Média de Idades</h2>
 <p><b>Escopo</b>: Leia as idades de duas crianças, calcule e mostre sua soma e média.</p>
+<h2>Efetuar operações matemáticas</h2>
+<p><b>Escopo</p></b>: Leia 2 números, efetue as 4 operações matemáticas e mostre os resultados.
