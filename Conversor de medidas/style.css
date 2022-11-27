@@ -6,7 +6,7 @@
 
 body {    
     font-family: sans-serif;
-    background-color: orange;
+    background-color: rgb(227, 150, 7);
 }
 
 .container {
@@ -42,7 +42,7 @@ body {
     margin-top: 15px;
     font-size: 15px;
     background-color: white;
-    border-radius: 15px;
+    border-radius: 16px;
     padding: 3px;
     background-color: rgb(222, 181, 0);
     color: white;
@@ -52,11 +52,12 @@ body {
 .content button:hover {
     background-color: rgb(5, 146, 5);
     height: 30px;
+    width: 180px;
 }
 
 .content p {
     text-align: center;
-    font-size: 12px;
+    font-size: 13px;
     color: rgb(0, 0, 0);
 }
 
