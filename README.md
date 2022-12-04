@@ -62,13 +62,12 @@ Código base do desafio citado:<br></br>
 <p>A função recursiva é composta por duas partes:</p>
 <ol>
 <li>O caso base; O caso base é o caso de parada. Sem ele a função seria um loop infinito. No problema o caso base é se <code>n</code> for menor ou igual a 2.</li> 
-<p>Perceba os testes abaixo:</p>
-f(1) = 1 (cai na função recursiva)<br>
-f(2) = 1 <br>
-f(3) = f(2) + f(1) = 2 <br>
-(já que na Fibonacci é necessário a soma dos dois números anteriores) <br>
-f(4) = f(3) + f(2) = 2 +1 = 3 <br>
-<li></li>
+<p>Perceba os testes abaixo (lembrando que na Fibonacci é necessário a soma dos dois números anteriores):</p>
+f(1) = 1 ↦ Cai na função recursiva<br>
+f(2) = 1 ↦ Cai na função recursiva<br>
+f(3) = f(2) + f(1) = 2 ↦ Porque o f(2) é 1 e o f(1) também é 1<br>
+f(4) = f(3) + f(2) = 2 + 1 = 3 ↦ Porque o f(3) é igual a 2 e o f(2) é igual a 1 <br>
+<p>A função recursiva então como uma pilha de chamada (estrutura de dados pilha).</p>
 </ol>
 
 
