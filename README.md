@@ -58,16 +58,17 @@ Código base do desafio citado:<br></br>
 <li>A estrutura de dados pilha diz que o primeiro elemento inserido é o último a ser removido e o último a ser inserido é o primeiro a ser removido. Saiba mais <a href="https://alissonraphaeloliveira.medium.com/algoritmos-e-estrutura-de-dados-pilhas-be817da5d71">neste artigo</a>.</li>
 <h3>Compreendendo o problema</h3>
 <p>Desenvolver um algorítimo (n) que vai retornar o número em questão na sequência de fibonaci.</p>
-<li>Exemplo: Se o <code>n</code> for <b>4</b> o que precisa ser retornado é o número 3, porque o valor 3 está aqui na posição 4 na sequência Fibonacci</li>
+<li>Exemplo: Se o <code>n</code> for <b>4</b> o que precisa ser retornado é o número 3, porque o valor 3 está na posição 4 na sequência Fibonacci</li>
 <p>A função recursiva é composta por duas partes:</p>
 <ol>
 <li>O caso base; O caso base é o caso de parada. Sem ele a função seria um loop infinito. No problema o caso base é se <code>n</code> for menor ou igual a 2.</li> 
 <p>Perceba os testes abaixo (lembrando que na Fibonacci é necessário a soma dos dois números anteriores):</p>
-f(1) = 1 ↦ Cai na função recursiva<br>
-f(2) = 1 ↦ Cai na função recursiva<br>
-f(3) = f(2) + f(1) = 2 ↦ Porque o f(2) é 1 e o f(1) também é 1<br>
-f(4) = f(3) + f(2) = 2 + 1 = 3 ↦ Porque o f(3) é igual a 2 e o f(2) é igual a 1 <br>
-<p>A função recursiva então como uma pilha de chamada (estrutura de dados pilha).</p>
+<b>f(1)</b> = 1 ↦ Cai na função recursiva<br>
+<b>f(2)</b> = 1 ↦ Cai na função recursiva<br>
+<b>f(3)</b> = f(2) + f(1) = 2 ↦ Porque o f(2) é 1 e o f(1) também é 1<br>
+<b>f(4)</b> = f(3) + f(2) = 2 + 1 = 3 ↦ Porque o f(3) é igual a 2 e o f(2) é igual a 1 <br>
 </ol>
+<p>A função recursiva então funciona como uma pilha de chamada (estrutura de dados pilha).</p>
+
 
 
