@@ -9,7 +9,8 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
   <li>Média de idades</li>
   <li>Efetuar operações matemáticas</li>
   <li>Conversor de medidas</li>
-  <li>Var, let, const (diferenças na prática)</li><br>
+  <li>Var, let, const (diferenças na prática)</li>
+  <li>Recursividade com função Fibonacci</li>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -50,6 +51,24 @@ Código base do desafio citado:<br></br>
 <code>} </code> <br>
 <code>editInPlace(); </code> <br>
 
-
+<h1>Recursividade com função Fibonacci</h1>
+<h3>Alguns conceitos</h3>
+<li>A sequência de Fibonacci é uma sequência de números onde o número 1 é o primeiro e segundo termo da ordem, e os demais são originados pela soma de seus antecessores. </li>
+<li>A função recursiva é uma função que é definida em termos de si mesma. Ou seja, uma função que "chama" a si mesma. Elas podem ser usadas para poder processar uma determinada operação e geralmente há condições internas para que a recursividades sejam aplicadas (uma vez que sem condições, ela chamaria a si mesmo eternamente, causando o que chamamos de loop infinito. Saiba mais nessa excelente discussão encontrada no <a href="https://pt.stackoverflow.com/questions/186269/o-que-%C3%A9-uma-fun%C3%A7%C3%A3o-recursiva">stack overflow</a>.</li>
+<li>A estrutura de dados pilha diz que o primeiro elemento inserido é o último a ser removido e o último a ser inserido é o primeiro a ser removido. Saiba mais <a href="https://alissonraphaeloliveira.medium.com/algoritmos-e-estrutura-de-dados-pilhas-be817da5d71">neste artigo</a>.</li>
+<h3>Compreendendo o problema</h3>
+<p>Desenvolver um algorítimo (n) que vai retornar o número em questão na sequência de fibonaci.</p>
+<li>Exemplo: Se o <code>n</code> for <b>4</b> o que precisa ser retornado é o número 3, porque o valor 3 está aqui na posição 4 na sequência Fibonacci</li>
+<p>A função recursiva é composta por duas partes:</p>
+<ol>
+<li>O caso base; O caso base é o caso de parada. Sem ele a função seria um loop infinito. No problema o caso base é se <code>n</code> for menor ou igual a 2.</li> 
+<p>Perceba os testes abaixo:</p>
+f(1) = 1 (cai na função recursiva)<br>
+f(2) = 1 <br>
+f(3) = f(2) + f(1) = 2 <br>
+(já que na Fibonacci é necessário a soma dos dois números anteriores) <br>
+f(4) = f(3) + f(2) = 2 +1 = 3 <br>
+<li></li>
+</ol>
 
 
