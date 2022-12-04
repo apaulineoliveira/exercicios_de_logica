@@ -4,4 +4,7 @@ function fibonacciRecursive(n) {
 }
 
 console.log(fibonacciRecursive(4)) //3
+console.log(fibonacciRecursive(5)) //5
+console.log(fibonacciRecursive(6)) //8
+console.log(fibonacciRecursive(7)) //13
 
