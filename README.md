@@ -12,6 +12,7 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
   <li>Var, let, const (diferenças na prática)</li>
   <li>Recursividade com função Fibonacci</li>
   <li>Destructuring assignment</li>
+  <li>Troca de valores com destructuring assignment</li>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -71,5 +72,6 @@ Código base do desafio citado:<br></br>
 </ol>
 <p>A função recursiva então funciona como uma pilha de chamada (estrutura de dados pilha).</p>
 <h1>Destructuring assignment</h1>
+<h1>Troca de valores com destructuring assignment</h1>
 
 
