@@ -72,8 +72,8 @@ Código base do desafio citado:<br></br>
 <b>f(4)</b> = f(3) + f(2) = 2 + 1 = 3 ↦ Porque o f(3) é igual a 2 e o f(2) é igual a 1 <br>
 </ol>
 <p>A função recursiva então funciona como uma pilha de chamada (estrutura de dados pilha).</p>
-<h1>Destructuring assignment</h1>
-<h1>Troca de valores com destructuring assignment</h1>
-<h1>Passando um objeto como parâmetros de uma função</h1>
+<h3>Destructuring assignment</h1>
+<h3>Troca de valores com destructuring assignment</h1>
+<h3>Passando um objeto como parâmetros de uma função</h1>
 
 
