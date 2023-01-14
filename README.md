@@ -78,6 +78,8 @@ Código base do desafio citado:<br></br>
 <h3>Passando um objeto como parâmetros de uma função</h1>
 <h3>Operações com vetores</h3>
   <p><b>Contexto</b>: A função abaixo receberá 2 parâmetros; um vetor com apenas valores numéricos e um número. Faça com que ela multiplique cada item do vetor pelo segundo parâmetro apenas se o item do vetor for maior que 5. Após isso, ele deverá retornar o novo vetor.</p><br>
-    <p>Exemplo: Calcular Vetor <code>([1, 5, 10, 20], 2)</code> retornará: <code>[2, 5, 20, 40]</code> pois só 1 e 5 não são maiores que 5.
+    <p>Exemplo: Calcular Vetor <code>([1, 5, 10, 20], 2)</code> retornará: <code>[2, 5, 20, 40]</code> pois só 1 e 5 não são <b>maiores</b> que 5.</p><br>
+    
+  <p><b>Segundo exemplo</b>: Calcular Vetor <code>([1, 3, 4, 5], 10)</code> retornará <code>[1, 3, 4, 5]</code> pois nenhum é <b>maior</b> que 5.
 
 
