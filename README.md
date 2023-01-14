@@ -14,6 +14,7 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
   <li>Destructuring assignment</li>
   <li>Troca de valores com destructuring assignment</li>
   <li>Passando um objeto como parâmetros de uma função</li>
+  <li>Operações com vetores</li>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -75,5 +76,8 @@ Código base do desafio citado:<br></br>
 <h3>Destructuring assignment</h1>
 <h3>Troca de valores com destructuring assignment</h1>
 <h3>Passando um objeto como parâmetros de uma função</h1>
+<h3>Operações com vetores</h3>
+  <p><b>Contexto</b>: A função abaixo receberá 2 parâmetros; um vetor com apenas valores numéricos e um número. Faça com que ela multiplique cada item do vetor pelo segundo parâmetro apenas se o item do vetor for maior que 5. Após isso, ele deverá retornar o novo vetor.</p><br>
+    <p>Exemplo: Calcular Vetor <code>([1, 5, 10, 20], 2)</code> retornará: <code>[2, 5, 20, 40]</code> pois só 1 e 5 não são maiores que 5.
 
 
