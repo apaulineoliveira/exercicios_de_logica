@@ -83,4 +83,8 @@ Código base do desafio citado:<br></br>
     
   <p><b>Segundo exemplo</b>: Calcular Vetor <code>([1, 3, 4, 5], 10)</code> retornará <code>[1, 3, 4, 5]</code> pois nenhum é <b>maior</b> que 5.
 
+<br>
+
+<h1>Loops em Loops</h1>
+  <p><b>Escopo:</b> Complete a função abaixo de forma que ela receba uma variável como parâmetro e retorne um vetor no final. Essa variável passada por parâmetro terá as seguintes propriedades:</p>
 
