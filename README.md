@@ -15,6 +15,7 @@ Compilado de exercícios de lógica de programação utilizando Javascript.
   <li>Troca de valores com destructuring assignment</li>
   <li>Passando um objeto como parâmetros de uma função</li>
   <li>Operações com vetores</li>
+  <li>Loops em Loops</li>
 </ul>
 
 <p>Aos poucos vou preenchendo este repositório com mais exercícios que considero relevante para desenvolver essa parte crucial da programação. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
