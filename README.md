@@ -173,16 +173,14 @@ Base code of the mentioned challenge:
 <h2>Operations with vectors</h2>
    <p><b>Context</b>: The function below will receive 2 parameters; a vector with only numerical values and a number. Have it multiply each array item by the second parameter only if the array item is greater than 5. After that it should return the new array.</p><br>
    <p>Example: Calculate Vector <code>([1, 5, 10, 20], 2)</code> will return: <code>[2, 5, 20, 40]</code> because only 10 and 20 are <b>greater</b> than 5.</p><br>
-   <p><b>Second example</b>: Calculate Vector <code>([1, 3, 4, 5], 10)</code> will return <code>[1, 3, 4, 5]</ code> as none is <b>greater</b> than 5.</p>
+   <p><b>Second example</b>: Calculate Vector <code>([1, 3, 4, 5], 10)</code> will return <code>[1, 3, 4, 5]</code> as none is <b>greater</b> than 5.</p>
   
 <h2>Loops on Loops</h2>
-   <p><b>Scope:</b> Complete the function below so that it takes a variable as a parameter and returns a vector at the end. This variable passed as a parameter will have the following properties:
+   <p><b>Scope:</b> Complete the function below so that it takes a variable as a parameter and returns a vector at the end. This variable passed as a parameter will have the following properties:</p>
    <ul>
      <li>It will also be a vector</li>
      <li>Each of your values will be vectors with numbers</li>
    </ul>
-</p>
 
 
-<br>
 
