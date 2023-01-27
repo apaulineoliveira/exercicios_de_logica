@@ -97,7 +97,7 @@ body {
     font: inherit;
 }
 
-.todo_new-item > input :: placeholder {
+.todo_new-item > input::placeholder {
     font-style: italic;
     font-weight: normal;
 }
