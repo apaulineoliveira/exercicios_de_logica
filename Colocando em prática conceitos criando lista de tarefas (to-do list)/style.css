@@ -76,3 +76,23 @@ body {
 .todo_item > input [type = 'checkbox'] :checked + div {
     text-decoration:line-through;
 }
+
+.todo_new-item {
+    display: flex;
+    background-color: #FFF59d;
+    width: 100%;
+    height: 70px;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    box-shadow: 1px 1px 5px var(--secondary-color);
+    margin: 10px;
+    font: inherit;
+}
+
+.todo_new-item > input {
+    background-color: #FFF59d;
+    border: none;
+    width: 80%;
+    outline: none;
+    font: inherit;
+}
