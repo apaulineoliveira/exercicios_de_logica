@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #F4CE01;
+    --primary-color: #f7f7f7;
     --secondary-color: #0F0F0B;
 }
 
@@ -10,7 +10,7 @@
 }
 
 body {
-    font-size: 62.5%;
+    font-size: 12px;
     background-color: var(--primary-color);
     font: bold 2rem 'open Sans', 'sans-serif';
 }
@@ -24,16 +24,21 @@ body {
     gap: 15px;
 }
 
+.titulo {
+    font-size: 16px;
+}
+
 .todo_title {
+    font-family: sans-serif;
     display: flex;
     width: 100%;
     height: 80px;
-    background-color: rgb(5, 42, 109);
+    background-color: rgb(142, 130, 1);
     justify-content: center;
     align-items: center;
     margin-top: 50px;
     box-shadow: 1px 1px 5px var(--secondary-color);
-    font-size: 3rem;
+    font-size: 2rem;
     color: var(--primary-color);
 }
 
@@ -43,10 +48,13 @@ body {
     gap: 10px;
     height: 60px;
     justify-content: space-between;
-    padding: 5px;
+    padding: 50px;
 }
 
 .todo_item {
+    font-family: sans-serif;
+    font-weight: 200;
+    color: gray;
     display: flex;
     width: 100%;
     height: 60px;
@@ -61,10 +69,11 @@ body {
 }
 
 .todo_item:hover{
+    background-color: rgb(143, 133, 0);
+    color: white;
     cursor: pointer;
     transition: all .5s ease;
-    background-color: var(--secondary-color);
-    color: var(--primary-color);
+     
 }
 
 .todo_item > input [type = 'text'] {
@@ -78,14 +87,16 @@ body {
 }
 
 .todo_new-item {
+    font-size: 12px;
     display: flex;
-    background-color: #FFF59d;
-    width: 100%;
-    height: 70px;
+    background-color: #fcfbee;
+    width: 80%;
+    height: 50px;
     justify-content: space-evenly;
     padding: 10px 0;
     box-shadow: 1px 1px 5px var(--secondary-color);
-    margin: 10px;
+    margin: -3px;
+    margin-top: 15px;
     font: inherit;
 }
 
@@ -94,10 +105,22 @@ body {
     border: none;
     width: 80%;
     outline: none;
-    font: inherit;
+    padding: 5px;
+    
 }
 
 .todo_new-item > input::placeholder {
-    font-style: italic;
+    font-size: 15px;
+    text-align: center;
     font-weight: normal;
 }
+
+.botao {
+    color: rgb(244, 251, 251);
+    width: 8%;
+    background-color: red;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 5px;
+    cursor: pointer;
+}
+
