@@ -14,6 +14,7 @@
   <li>Passando um objeto como parâmetros de uma função</li>
   <li>Operações com vetores</li>
   <li>Loops em Loops</li>
+  <li>Condicionais</li>
 </ol>
   <p>Ao decorrer do tempo este repositório será preenchido com mais exercícios que considero relevante para exercitar essa parte crucial da programação que é a lógica. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
 
@@ -88,6 +89,8 @@ Código base do desafio citado:
   </ul>
 </p>
 
+<h2>Condicionais</h2>
+  <p><b>Escopo</b>: Você foi contratado por uma empresa de desenvolvimento de software que está modificando parte do código de cadastro de novos usuários. Neste cadstro está sendo colocado um limite no tamanho do arquivo da foto que o usuário envia. Caso a foto seja maior que 5MB, será exibida uma mnesagem de erro. Caso contrário, será exbilida uma mensagem de sucesso.</p>
 
 <br>
 </br>
