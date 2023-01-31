@@ -19,5 +19,20 @@ const LIMPAR_TAREFAS = () => {
         while (TODO_LIST.firstChild) {
             TODO_LIST.removeChild(TODO_LIST.lastChild);
         }
-
 }
+
+const atualizarTela = () => {
+    LIMPAR_TAREFAS ();
+    const BANCO = GET_BANCO ();
+    BANCO.forEach ((item, indice) => CRIAR_ITEM(item.tarefa, item.status, indice)); 
+}
+
+const INSERIR_ITEM = (evento) => {
+    const TECLA = evento.key;
+    const TEXTO = evento.target.value;
+        if(TECLA === 'Enter') {
+           
+        }
+}
+
+
