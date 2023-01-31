@@ -13,3 +13,11 @@ const CRIAR_ITEM = (tarefa, status, indice) => {
     `;
     document.getElementById('Todo list').appendChild(ITEM);
 }
+
+const LIMPAR_TAREFAS = () => {
+    const TODO_LIST = document.getElementById("todo list");
+        while (TODO_LIST.firstChild) {
+            TODO_LIST.removeChild(TODO_LIST.lastChild);
+        }
+
+}
