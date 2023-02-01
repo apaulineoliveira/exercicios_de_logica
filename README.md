@@ -111,6 +111,7 @@ Código base do desafio citado:
    <li>Passing an object as parameters to a function</li>
    <li>Operations with vectors</li>
    <li>Loops on Loops</li>
+   <li>Conditionals</li>
 </ol>
    <p>Over time this repository will be filled with more exercises that I consider relevant to exercise that crucial part of programming that is logic. It is through the development of solid and agile programming logic that we can effectively absorb any programming language.
 
@@ -185,5 +186,6 @@ Base code of the mentioned challenge:
      <li>Each of your values will be vectors with numbers</li>
    </ul>
 
-
+<h2>Conditionals</h2>
+  <p><b>Scope</b>: You have been hired by a software development company that is modifying part of the new user registration code. In this register, a limit is being placed on the size of the photo file that the user sends. If the photo is larger than 5MB, an error message will be displayed. Otherwise, a success message will be displayed.</p>
 
