@@ -14,7 +14,8 @@
   <li>Passando um objeto como parâmetros de uma função</li>
   <li>Operações com vetores</li>
   <li>Loops em Loops</li>
-  <li>Condicionais</li>
+  <li>Condicionais 1.1</li>
+  <li>Condicionais 1.2</li>
 </ol>
   <p>Ao decorrer do tempo este repositório será preenchido com mais exercícios que considero relevante para exercitar essa parte crucial da programação que é a lógica. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
 
@@ -89,9 +90,11 @@ Código base do desafio citado:
   </ul>
 </p>
 
-<h2>Condicionais</h2>
+<h2>Condicionais 1.1</h2>
   <p><b>Escopo</b>: Você foi contratado por uma empresa de desenvolvimento de software que está modificando parte do código de cadastro de novos usuários. Neste cadstro está sendo colocado um limite no tamanho do arquivo da foto que o usuário envia. Caso a foto seja maior que 5MB, será exibida uma mnesagem de erro. Caso contrário, será exbilida uma mensagem de sucesso.</p>
 
+<h2>Condicionais 1.2</h2>
+  <p><b>Escopo</b>: Programe um identificador de estágios da vida, exemplo: Menores de 18 anos = Menor de idade; Entre 18 e 60 anos = Adulto; Maior de 60 anos = Idoso. </p>
 <br>
 </br>
 
@@ -111,7 +114,8 @@ Código base do desafio citado:
    <li>Passing an object as parameters to a function</li>
    <li>Operations with vectors</li>
    <li>Loops on Loops</li>
-   <li>Conditionals</li>
+   <li>Conditionals 1.1</li>
+   <li>Condicionais 1.2</li>
 </ol>
    <p>Over time this repository will be filled with more exercises that I consider relevant to exercise that crucial part of programming that is logic. It is through the development of solid and agile programming logic that we can effectively absorb any programming language.
 
@@ -186,6 +190,8 @@ Base code of the mentioned challenge:
      <li>Each of your values will be vectors with numbers</li>
    </ul>
 
-<h2>Conditionals</h2>
+<h2>Conditionals 1.1</h2>
   <p><b>Scope</b>: You have been hired by a software development company that is modifying part of the new user registration code. In this register, a limit is being placed on the size of the photo file that the user sends. If the photo is larger than 5MB, an error message will be displayed. Otherwise, a success message will be displayed.</p>
 
+<h2>Conditionals 1.2</h2>
+  <p><b>Scope</b>Program a life stage identifier, example: Under 18 = Minor; Between 18 and 60 years = Adult; Over 60 years old = Elderly</p>
