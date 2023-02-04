@@ -29,8 +29,8 @@
 <h2>Trocar os valores entre as variáveis A e B</h2>
   <p><b>Escopo</b>: Ler os valores A e B e trocar os valores entre as duas variáveis; a variável A passa a possuir o valor de B e a variável B passa a possuir o valor de A.</p> 
   <ul>
-    <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS. </li>
-    <li>Optei por um HTML simples e funcional, utilizando <code>inputs</code> para inserir os números que irão posteriormente ser armazenados nas variáveis A e B. E um <code>button</code> <b>Enviar</b> para posteriormente "mandar" os valores para o Javascript.</li>
+    <li>Utilizei neste projeto o DOM (Document Object Model) para fazer a interação com os arquivos HTML e CSS.</li><br>
+    <li>Optei por um HTML simples e funcional, utilizando <code>inputs</code> para inserir os números que irão posteriormente ser armazenados nas variáveis A e B. E um <code>button</code> <b>Enviar</b> para posteriormente "mandar" os valores para o Javascript.</li><br>
     <li>No Javascript será criado uma variável adicional que será a responsável por proporcionar a mudança entre os valores A e B. Como poder ser observado no código abaixo:</li><br>
   <code>var c = b;</code> <br>
   <code>var b = a;</code> <br>
