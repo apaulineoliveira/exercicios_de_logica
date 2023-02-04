@@ -101,6 +101,7 @@ Código base do desafio citado: </br></br>
 <h2>Estrutura de Repetição For</h2>
   <p>É indicado quando é necessário percorrer um array inteiro pra fazer um mesmo procedimento com cada item desse array é recomendável que seja usado o for of. Exemplo de uma média de valores.Segue o código na pasta.</p>
   
+  <h3>Quantidade de notas vermelhas</h3>
 <h2>Estrutura de Repetição - Filtrando itens de um array</h2>
   <p>Filtrando itens de um array com a letra "a".</p>    
 <br>
