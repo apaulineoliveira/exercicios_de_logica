@@ -16,7 +16,7 @@
   <li>Loops em Loops</li>
   <li>Condicionais 1.1</li>
   <li>Condicionais 1.2</li>
-  <li>Estrutura de Repetição For</li>
+  <li>Estrutura de Repetição - For</li>
   <li>Estrutura de Repetição - Filtrando itens de um array</li>
 </ol>
   <p>Ao decorrer do tempo este repositório será preenchido com mais exercícios que considero relevante para exercitar essa parte crucial da programação que é a lógica. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
@@ -97,6 +97,11 @@ Código base do desafio citado:
 
 <h2>Condicionais 1.2</h2>
   <p><b>Escopo</b>: Programe um identificador de estágios da vida, exemplo: Menores de 18 anos = Menor de idade; Entre 18 e 60 anos = Adulto; Maior de 60 anos = Idoso. </p>
+
+<h2>Estrutura de Repetição For</h2>
+
+<h2>Estrutura de Repetição - Filtrando itens de um array</h2>
+  
 <br>
 </br>
 
@@ -199,3 +204,7 @@ Base code of the mentioned challenge:
 
 <h2>Conditionals 1.2</h2>
   <p><b>Scope</b>Program a life stage identifier, example: Under 18 = Minor; Between 18 and 60 years = Adult; Over 60 years old = Elderly</p>
+  
+<h2>Estrutura de Repetição For</h2>
+
+<h2>Estrutura de Repetição - Filtrando itens de um array</h2>
