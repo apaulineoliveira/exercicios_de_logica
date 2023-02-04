@@ -99,11 +99,13 @@ Código base do desafio citado: </br></br>
   <p><b>Escopo</b>: Programe um identificador de estágios da vida, exemplo: Menores de 18 anos = Menor de idade; Entre 18 e 60 anos = Adulto; Maior de 60 anos = Idoso. </p>
 
 <h2>Estrutura de Repetição For</h2>
-  <p>É indicado quando é necessário percorrer um array inteiro pra fazer um mesmo procedimento com cada item desse array é recomendável que seja usado o for of. Exemplo de uma média de valores.Segue o código na pasta.</p>
+  <p>É indicado quando é necessário percorrer um array inteiro pra fazer um mesmo procedimento com cada item desse array, é recomendável que seja usado o <code>for of</code>.</p> <br>
+  <li>Primeiro exercício: Criar um sistema que encontre a média de valores de um dado array; Segue o código na pasta.</li>
   
-  <h3>Quantidade de notas vermelhas</h3>
+ <h3>Quantidade de notas vermelhas</h3>
+  <li>Segundo exercício: Criar um sistema que exiba no console a quantidade de notas vermelha que um aluno possui.</li> <br></br>
 <h2>Estrutura de Repetição - Filtrando itens de um array</h2>
-  <p>Filtrando itens de um array com a letra "a".</p>    
+  <p>Crie um sistema que filtre e exiba todos os itens de um array que comece com a letra "a".</p>    
 <br>
 </br>
 
@@ -208,6 +210,9 @@ Base code of the mentioned challenge:</p></br>
   <p><b>Scope</b>Program a life stage identifier, example: Under 18 = Minor; Between 18 and 60 years = Adult; Over 60 years old = Elderly</p>
   
 <h2>For Repeat Structure</h2>
-  <p>It is indicated when it is necessary to go through an entire array to perform the same procedure with each item of that array, it is recommended that the for of be used. Example of an average of values.</p>
-<h2>Repeat Structure - Filtering items from an array</h2>
-  <p>Filtering items from an array with the letter "a".</p>
+  <p>It is indicated when it is necessary to go through an entire array to perform the same procedure with each item of that array, it is recommended that <code>for of</code> be used.</p> <br>
+  <li>First exercise: Create a system that finds the average of values of a given array; Follow the code in the folder.</li>
+  
+ <h3>Number of red banknotes</h3>
+  <li>Second exercise: Create a system that displays on the console the number of red grades that a student has.</li>
+<h2>Repeating Structure - Filtering items from an array</h2>
