@@ -5,3 +5,4 @@ const NOMES = ["ana", "bia", "andre"];
             nomeComA.push(item);
         }
     }
+    console.log(nomeComA);
