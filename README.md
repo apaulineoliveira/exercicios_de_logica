@@ -16,6 +16,8 @@
   <li>Loops em Loops</li>
   <li>Condicionais 1.1</li>
   <li>Condicionais 1.2</li>
+  <li>Estrutura de Repetição For</li>
+  <li>Estrutura de Repetição - Filtrando itens de um array</li>
 </ol>
   <p>Ao decorrer do tempo este repositório será preenchido com mais exercícios que considero relevante para exercitar essa parte crucial da programação que é a lógica. É através do desenvolvimento de uma lógica de programação sólida e àgil que conseguimos absorver de forma eficáz qualquer linguagem de programação.
 
@@ -116,6 +118,8 @@ Código base do desafio citado:
    <li>Loops on Loops</li>
    <li>Conditionals 1.1</li>
    <li>Condicionais 1.2</li>
+   <li>For Repeat Structure</li>
+   <li>Repeat Structure - Filtering items from an array</li>
 </ol>
    <p>Over time this repository will be filled with more exercises that I consider relevant to exercise that crucial part of programming that is logic. It is through the development of solid and agile programming logic that we can effectively absorb any programming language.
 
