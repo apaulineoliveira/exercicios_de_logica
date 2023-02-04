@@ -205,6 +205,6 @@ Base code of the mentioned challenge:
 <h2>Conditionals 1.2</h2>
   <p><b>Scope</b>Program a life stage identifier, example: Under 18 = Minor; Between 18 and 60 years = Adult; Over 60 years old = Elderly</p>
   
-<h2>Estrutura de Repetição For</h2>
+<h2>For Repeat Structure</h2>
 
-<h2>Estrutura de Repetição - Filtrando itens de um array</h2>
+<h2>Repeat Structure - Filtering items from an array</h2>
