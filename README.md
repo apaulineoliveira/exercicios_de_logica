@@ -51,7 +51,7 @@
 <h2>Var, let, const (diferenças na prática)</h2>
   <p>Compreendendo que as constantes: <code>const</code>não podem ter seus valores reatribuidos troque os valores do array declarado para [2, 5, 7].
 Obs. Não pode alterar o tipo <code>const</code> para let. Pense em uma solução que não haja essa troca.</p><br>
-Código base do desafio citado:
+Código base do desafio citado: </br></br>
 <code>const s = [5, 7, 2];</code> <br>
 <code>function editInPlace() { </code> <br>
 <code>} </code> <br>
@@ -99,9 +99,9 @@ Código base do desafio citado:
   <p><b>Escopo</b>: Programe um identificador de estágios da vida, exemplo: Menores de 18 anos = Menor de idade; Entre 18 e 60 anos = Adulto; Maior de 60 anos = Idoso. </p>
 
 <h2>Estrutura de Repetição For</h2>
-
+  <p>É indicado quando é necessário percorrer um array inteiro pra fazer um mesmo procedimento com cada item desse array é recomendável que seja usado o for of. Exemplo de uma média de valores.Segue o código na pasta.</p>
 <h2>Estrutura de Repetição - Filtrando itens de um array</h2>
-  
+  <p>Filtrando itens de um array com a letra a</p>    
 <br>
 </br>
 
