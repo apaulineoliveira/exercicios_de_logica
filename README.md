@@ -216,3 +216,4 @@ Base code of the mentioned challenge:</p></br>
  <h3>Number of red banknotes</h3>
   <li>Second exercise: Create a system that displays on the console the number of red grades that a student has.</li>
 <h2>Repeating Structure - Filtering items from an array</h2>
+  <p>Create a system that filters and displays all items in an array that starts with the letter "a".</p>
