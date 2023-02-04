@@ -61,9 +61,9 @@ Código base do desafio citado: </br></br>
 
 <h2>Recursividade com função Fibonacci</h2>
   <h3>Alguns conceitos</h3>
-     <li>A sequência de Fibonacci é uma sequência de números onde o número 1 é o primeiro e segundo termo da ordem, e os demais são originados pela soma de seus antecessores. </li>
-     <li>A função recursiva é uma função que é definida em termos de si mesma. Ou seja, uma função que "chama" a si mesma. Elas podem ser usadas para poder processar uma determinada operação e geralmente há condições internas para que a recursividades sejam aplicadas (uma vez que sem condições, ela chamaria a si mesmo eternamente, causando o que chamamos de loop infinito. Saiba mais nessa excelente discussão encontrada no <a href="https://pt.stackoverflow.com/questions/186269/o-que-%C3%A9-uma-fun%C3%A7%C3%A3o-recursiva">stack overflow</a>.</li>
-     <li>A estrutura de dados pilha diz que o primeiro elemento inserido é o último a ser removido e o último a ser inserido é o primeiro a ser removido. Saiba mais <a href="https://alissonraphaeloliveira.medium.com/algoritmos-e-estrutura-de-dados-pilhas-be817da5d71">neste artigo</a>.</li>
+     <li>A sequência de Fibonacci é uma sequência de números onde o número 1 é o primeiro e segundo termo da ordem, e os demais são originados pela soma de seus antecessores.</li><br>
+     <li>A função recursiva é uma função que é definida em termos de si mesma. Ou seja, uma função que "chama" a si mesma. Elas podem ser usadas para poder processar uma determinada operação e geralmente há condições internas para que a recursividades sejam aplicadas (uma vez que sem condições, ela chamaria a si mesmo eternamente, causando o que chamamos de loop infinito. Saiba mais nessa excelente discussão encontrada no <a href="https://pt.stackoverflow.com/questions/186269/o-que-%C3%A9-uma-fun%C3%A7%C3%A3o-recursiva">stack overflow</a>.</li><br>
+     <li>A estrutura de dados pilha diz que o primeiro elemento inserido é o último a ser removido e o último a ser inserido é o primeiro a ser removido. Saiba mais <a href="https://alissonraphaeloliveira.medium.com/algoritmos-e-estrutura-de-dados-pilhas-be817da5d71">neste artigo</a>.</li><br>
   <h3>Compreendendo o problema</h3>
      <p>Desenvolver um algorítimo (n) que vai retornar o número em questão na sequência de fibonaci.</p>
      <li>Exemplo: Se o <code>n</code> for <b>4</b> o que precisa ser retornado é o número 3, porque o valor 3 está na posição 4 na sequência Fibonacci</li>
@@ -100,8 +100,9 @@ Código base do desafio citado: </br></br>
 
 <h2>Estrutura de Repetição For</h2>
   <p>É indicado quando é necessário percorrer um array inteiro pra fazer um mesmo procedimento com cada item desse array é recomendável que seja usado o for of. Exemplo de uma média de valores.Segue o código na pasta.</p>
+  
 <h2>Estrutura de Repetição - Filtrando itens de um array</h2>
-  <p>Filtrando itens de um array com a letra a</p>    
+  <p>Filtrando itens de um array com a letra "a".</p>    
 <br>
 </br>
 
@@ -158,10 +159,10 @@ Código base do desafio citado: </br></br>
 <h2>Var, let, const (differences in practice)</h2>
    <p>Understanding that constants: <code>const</code> cannot have their values reassigned change the declared array values to [2, 5, 7].
 Obs. You cannot change the type <code>const</code> to let. Think of a solution that doesn't have this switch.</p><br>
-Base code of the mentioned challenge:
-<code>const s = [5, 7, 2];</code> <br>
+Base code of the mentioned challenge:</p></br>
+<code>const s = [5, 7, 2];</code><br>
 <code>function editInPlace() { </code> <br>
-<code>} </code> <br>
+<code>} </code><br>
 <code>editInPlace(); </code>
 
 <br>
@@ -178,7 +179,7 @@ Base code of the mentioned challenge:
 
 
 <ol>
-     <li>The base case; The base case is the halting case. Without it the function would be an infinite loop. In the problem the base case is if <code>n</code> is less than or equal to 2.</li>
+     <li>The base case; The base case is the halting case. Without it the function would be an infinite loop. In the problem the base case is if <code>n</code> is less than or equal to 2.</li><br>
      <p>Understand the tests below (remembering that in Fibonacci the sum of the two previous numbers is necessary):</p>
      <b>f(1)</b> = 1 ↦ Falls into the recursive function<br>
      <b>f(2)</b> = 1 ↦ Falls into the recursive function<br>
@@ -206,5 +207,6 @@ Base code of the mentioned challenge:
   <p><b>Scope</b>Program a life stage identifier, example: Under 18 = Minor; Between 18 and 60 years = Adult; Over 60 years old = Elderly</p>
   
 <h2>For Repeat Structure</h2>
-
+  <p>It is indicated when it is necessary to go through an entire array to perform the same procedure with each item of that array, it is recommended that the for of be used. Example of an average of values.</p>
 <h2>Repeat Structure - Filtering items from an array</h2>
+  <p>Filtering items from an array with the letter "a".</p>
